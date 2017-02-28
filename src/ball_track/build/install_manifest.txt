@@ -1,0 +1,10 @@
+/usr/local/_setup_util.py
+/usr/local/env.sh
+/usr/local/setup.bash
+/usr/local/setup.sh
+/usr/local/setup.zsh
+/usr/local/.rosinstall
+/usr/local/lib/pkgconfig/ball_track.pc
+/usr/local/share/ball_track/cmake/ball_trackConfig.cmake
+/usr/local/share/ball_track/cmake/ball_trackConfig-version.cmake
+/usr/local/share/ball_track/package.xml

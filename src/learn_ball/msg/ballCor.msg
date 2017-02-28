@@ -1,0 +1,11 @@
+string heading
+string color
+int64 x
+int64 y
+int64 radius
+int64 upperH
+int64 upperS
+int64 upperV
+int64 lowerH
+int64 lowerS
+int64 lowerV

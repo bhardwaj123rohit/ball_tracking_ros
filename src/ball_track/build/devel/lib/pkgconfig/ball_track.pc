@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/src/ball_track/build/devel
+
+Name: ball_track
+Description: Description of ball_track
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/src/ball_track/build/devel/lib 
+Requires: 

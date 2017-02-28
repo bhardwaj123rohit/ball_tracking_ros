@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/catkin_ws/src/ball_track/build/devel/setup.sh
